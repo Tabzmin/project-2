@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: aliceblue;
+    margin: 0;
+}
+#bannerImage{
+    background-color: #6247ea;
+    background-size: cover;
+    padding: 100px 0 100px;
+}
+.class{
+    background-color: #ec9d5f;
+    background-size: cover;
+    padding: 100px 0 100px;
+    
+}
+/* nav{
+   font-family:Roboto;
+   font-size: 14px;
+   display: flex;
+   justify-content: space-between;
+   z-index: 1;
+   position: relative;
+
+} */
+/* #navbar a{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 15px;
+    color: #000000;
+    justify-content: space-between;
+
+} */
+

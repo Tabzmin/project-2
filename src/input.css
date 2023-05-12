@@ -13,13 +13,17 @@ body{
 #bannerImage{
     background-color: #6247ea;
     background-size: cover;
-    padding: 100px 0 100px;
+    padding: 150px 0 150px;
 }
 .class{
     background-color: #ec9d5f;
     background-size: cover;
-    padding: 100px 0 100px;
+    padding: 200px 0 200px;
     
+    
+}
+.span{
+    grid-column: span 2 / span 2;
 }
 /* nav{
    font-family:Roboto;

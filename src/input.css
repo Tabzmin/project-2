@@ -25,6 +25,7 @@ body{
 .span{
     grid-column: span 2 / span 2;
 }
+
 /* nav{
    font-family:Roboto;
    font-size: 14px;
@@ -43,4 +44,10 @@ body{
     justify-content: space-between;
 
 } */
+#bannerimage2{
+    background-color: #04091e;
+    background-size: cover;
+    padding: 200px 0 200px;
+    background-repeat: no-repeat;
+}
 
